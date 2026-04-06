@@ -1,0 +1,63 @@
+{
+  "pricingPlans": [
+    {
+      "name": "Basic Plan",
+      "price": "$20/month",
+      "description": "Perfect for beginners starting their fitness journey.",
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "Free Wi-Fi",
+        "Open gym hours (8 AM - 8 PM)",
+        "Basic fitness assessment",
+        "Access to cardio zone",
+        "Water station access"
+      ]
+    },
+    {
+      "name": "Standard Plan",
+      "price": "$35/month",
+      "description": "Ideal for regular gym-goers who want more flexibility.",
+      "features": [
+        "All Basic plan features",
+        "Extended hours (6 AM - 10 PM)",
+        "1 personal training session/month",
+        "Group classes (Yoga, Cardio, Zumba)",
+        "Progress tracking support",
+        "Mobile app access",
+        "Discount on supplements"
+      ]
+    },
+    {
+      "name": "Premium Plan",
+      "price": "$60/month",
+      "description": "Best for serious fitness enthusiasts.",
+      "features": [
+        "All Standard plan features",
+        "Unlimited personal training",
+        "Custom diet & nutrition plan",
+        "Access to all premium classes",
+        "24/7 gym access",
+        "Body composition analysis",
+        "Priority booking for classes",
+        "Guest pass (2 per month)"
+      ]
+    },
+    {
+      "name": "Elite Plan",
+      "price": "$90/month",
+      "description": "Ultimate fitness experience with VIP benefits.",
+      "features": [
+        "All Premium plan features",
+        "Personal locker",
+        "Sauna & spa access",
+        "Dedicated personal trainer",
+        "Priority customer support",
+        "VIP lounge access",
+        "Free gym merchandise",
+        "Unlimited guest passes",
+        "Injury prevention & recovery sessions"
+      ]
+    }
+  ]
+}
