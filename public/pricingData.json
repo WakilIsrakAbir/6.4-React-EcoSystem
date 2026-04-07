@@ -1,6 +1,7 @@
 {
   "pricingPlans": [
     {
+      "id": 1,
       "name": "Basic Plan",
       "price": "$20/month",
       "description": "Perfect for beginners starting their fitness journey.",
@@ -15,6 +16,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Standard Plan",
       "price": "$35/month",
       "description": "Ideal for regular gym-goers who want more flexibility.",
@@ -29,7 +31,9 @@
       ]
     },
     {
+      "id": 3,
       "name": "Premium Plan",
+      "popular": true,
       "price": "$60/month",
       "description": "Best for serious fitness enthusiasts.",
       "features": [
@@ -44,6 +48,7 @@
       ]
     },
     {
+      "id": 4,
       "name": "Elite Plan",
       "price": "$90/month",
       "description": "Ultimate fitness experience with VIP benefits.",
@@ -55,8 +60,8 @@
         "Priority customer support",
         "VIP lounge access",
         "Free gym merchandise",
-        "Unlimited guest passes",
-        "Injury prevention & recovery sessions"
+        "Personal locker",
+        "Sauna & spa access"
       ]
     }
   ]
