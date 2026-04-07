@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Liam Carter",
+    "marks": {
+      "math": 85,
+      "physics": 78,
+      "chemistry": 92
+    }
+  },
+  {
+    "id": 2,
+    "name": "Olivia Martinez",
+    "marks": {
+      "math": 95,
+      "physics": 88,
+      "chemistry": 91
+    }
+  },
+  {
+    "id": 3,
+    "name": "Noah Brooks",
+    "marks": {
+      "math": 72,
+      "physics": 65,
+      "chemistry": 70
+    }
+  },
+  {
+    "id": 4,
+    "name": "Emma Nguyen",
+    "marks": {
+      "math": 88,
+      "physics": 92,
+      "chemistry": 85
+    }
+  },
+  {
+    "id": 5,
+    "name": "Elijah Patel",
+    "marks": {
+      "math": 68,
+      "physics": 74,
+      "chemistry": 80
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ava Robinson",
+    "marks": {
+      "math": 98,
+      "physics": 95,
+      "chemistry": 96
+    }
+  },
+  {
+    "id": 7,
+    "name": "James Foster",
+    "marks": {
+      "math": 75,
+      "physics": 70,
+      "chemistry": 68
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sophia Kim",
+    "marks": {
+      "math": 82,
+      "physics": 85,
+      "chemistry": 89
+    }
+  },
+  {
+    "id": 9,
+    "name": "William Chen",
+    "marks": {
+      "math": 91,
+      "physics": 89,
+      "chemistry": 94
+    }
+  },
+  {
+    "id": 10,
+    "name": "Mia Thompson",
+    "marks": {
+      "math": 79,
+      "physics": 82,
+      "chemistry": 77
+    }
+  }
+]
